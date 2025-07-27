@@ -18,3 +18,5 @@ The core features of this game type are A) a linear progression curve, where it'
 Having played these games a ton, I found myself dissatisfied with how the introduction of new game mechanics would often completely invalidate old game mechanics: new more efficient production facilities would make older production facilities superfluous and a bad investment of resources. So I wanted to design an Idle-Incremental game where everything is connected: the first production facility you unlock will always remain useful because it is organically connected to the entire system.
 
 In Starclick captain, your first production facility (Ensigns) produces clicks, your second (Engineers) increases the power output of those clicks, and so on in increasingly subtle and intricate ways. The player will want to prioritise spending resources wherever they will be most efficiently put to work, but the earliest production facilities will always remain a viable investment.
+
+NOTE: As the game uses licensed art and sound, this repository only contains the game's C# scripts.
