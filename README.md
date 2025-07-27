@@ -19,4 +19,4 @@ Having played these games a ton, I found myself dissatisfied with how the introd
 
 In Starclick captain, your first production facility (Ensigns) produces clicks, your second (Engineers) increases the power output of those clicks, and so on in increasingly subtle and intricate ways. The player will want to prioritise spending resources wherever they will be most efficiently put to work, but the earliest production facilities will always remain a viable investment.
 
-NOTE: As the game uses licensed art and sound, this repository only contains the game's C# scripts.
+NOTE: As the game uses licensed art and sound, this repository only contains the game's C# scripts. These scripts make use of https://github.com/Razenpok/BreakInfinity.cs, to which applies the MIT License.
